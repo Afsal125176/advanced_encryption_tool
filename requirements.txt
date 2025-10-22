@@ -1,0 +1,7 @@
+# Required Python Libraries for Advanced Encryption Tool
+
+pycryptodome==3.20.0
+tk
+hashlib
+base64
+os
