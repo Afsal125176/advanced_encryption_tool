@@ -1,3 +1,11 @@
+#Cyber security 
+ **COMPANY**:CODTECH SOLUTIONS
+**NANE** : AFSAL.N
+**INTERN ID**:COD123
+**DOMAIN**:CYBER SECURITY 
+**DURATION**: 1 month
+**MENTOR**:NEELA SANTHOSH 
+
 
 # 🔐 Advanced Encryption Tool (AES-256)
 
